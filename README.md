@@ -13,10 +13,10 @@ for the Fan and Temp sensors you need in FanControl.
 4. (Re)Start FanControl
 
 Important notes: 
--Tested with HWInfo 7.02
--If you change which sensors are being exported in HWiNFO you'll
- need to restart FanControl or you might get unexpected results.
--If you see a -999 temperature somewhere it means that the plugin cannot read
-the sensor value from the registry for some reason.
+* Tested with HWInfo 7.02
+* If you change which sensors are being exported in HWiNFO you'll
+  need to restart FanControl or you might get unexpected results.
+* If you see a -999 temperature somewhere it means that the plugin cannot read
+  the sensor value from the registry for some reason.
 
 
