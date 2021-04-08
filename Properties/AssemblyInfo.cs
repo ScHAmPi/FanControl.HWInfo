@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FanControl.HWInfo")]
+[assembly: AssemblyTitle("FanControl.HWInfoReg")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FanControl.HWInfo")]
+[assembly: AssemblyProduct("FanControl.HWInfoReg")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fb6f1a67-0e0f-4e48-a6bf-c56486a09565")]
+[assembly: Guid("5902A73E-882E-4753-B1B1-6A5AFE2E49AE")]
 
 // Version information for an assembly consists of the following four values:
 //

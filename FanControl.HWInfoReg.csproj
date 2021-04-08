@@ -7,8 +7,8 @@
     <ProjectGuid>{FB6F1A67-0E0F-4E48-A6BF-C56486A09565}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FanControl.HWInfo</RootNamespace>
-    <AssemblyName>FanControl.HWInfo</AssemblyName>
+    <RootNamespace>FanControl.HWInfoReg</RootNamespace>
+    <AssemblyName>FanControl.HWInfoReg</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -45,9 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HWInfoPlugin.cs" />
-    <Compile Include="HwInfo.cs" />
-    <Compile Include="HWInfoPluginSensor.cs" />
+    <Compile Include="HWInfoRegPlugin.cs" />
+    <Compile Include="HWInfoRegPluginSensor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
